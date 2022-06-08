@@ -9,6 +9,9 @@ Output files such as word2vec0607.txt (English) and word2vec0608.txt （中文�
 
 1.py   python程序
 
+中文.txt  word2vec后的排好序的输出数据
+英文.txt  ChemDataExtractor识别后的排好序的输出数据
+
 Chinese.txt  中文原始语料库（万方+知网，2000-2021， 材料+化学, ~210,000 papers）
 Sciences.txt 英文原始语料库（Sciencedirect，2000-2020， Materials, ~150,000 papers） 
 stop_words.txt  停用词
