@@ -33,3 +33,8 @@ word2vec0607.txt (English) and word2vec0608.txt （中文）
 英文(英文.txt)：poly-Si,  ZnMnO2  a-SiH  NaSbS2  arsenide  BiPV?? copper-indium-gallium-selenide  silicon   BiHP   Aluminium  n-silicon  silicon  Titania LiyWO3 c-Si CdS  silicon  CuInGaSe2  Cu-Mn  MeOH   CdSCuInSe2   alpha-sexithiophen  CuSbSe2  PTB7-ThPC71BM FA4GeIISbIIICl12  poly3-hexylthiopheneindene-C60  hydrogen  LHP Perovskite PbPc  **LixMn2O4** (JVASP-7888)
  
 混淆矩阵， Precision， Recall, F-score， Accuracy等数据（分词的准确率和Word2vec的准确率）需要进一步计算。
+
+
+
+如果出现punkt问题：请下载下面文件并解压到代码提示的位置
+链接: https://pan.baidu.com/s/1DBsHdDwcVrOa4odaB4TuKw 提取码: p5sj 复制这段内容后打开百度网盘手机App，操作更方便哦 
